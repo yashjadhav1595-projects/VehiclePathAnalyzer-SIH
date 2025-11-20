@@ -1,4 +1,3 @@
-"""
 # RITE – GNSS-Powered Route Intelligence & Tamper-Proof Travel Verification
 
 RITE (Revitalizing Indian Traditions & Experiences) is a **high-accuracy GNSS and map-matching system** designed to generate reliable, tamper-proof travel data for tourism, navigation, rewards, compliance, and route authentication.  
@@ -111,4 +110,3 @@ All in one system.
 - [ ] Public explorer for verified travel proofs  
 - [ ] AI-based anomaly detection for fraudulent route data  
 - [ ] Partnership integrations with tourism boards  
-""")
